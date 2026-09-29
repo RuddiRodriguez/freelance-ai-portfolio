@@ -1,0 +1,30 @@
+{
+  "mode": "offline-scripted-demo",
+  "stop_reason": "agent_decision",
+  "conversation": [
+    [
+      "How was your experience finding saved notes in a note-taking app?",
+      "Writing a note was easy, but finding it again took too long."
+    ],
+    [
+      "Which part of finding a saved note would you improve first?",
+      "I would add search at the top and let users label notes. I had to open several folders to find my shopping list."
+    ]
+  ],
+  "assessments": [
+    {
+      "turn": 0,
+      "engagement": "High",
+      "sensitivity": "NotSensitive",
+      "sufficiency": "Moderate",
+      "decision": "continue_conversation"
+    },
+    {
+      "turn": 1,
+      "engagement": "High",
+      "sensitivity": "NotSensitive",
+      "sufficiency": "Sufficient",
+      "decision": "terminate_conversation"
+    }
+  ]
+}

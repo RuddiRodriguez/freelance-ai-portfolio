@@ -1,0 +1,14 @@
+{
+  "data_origin": "Entirely fictional portfolio example; no customer records.",
+  "question": "How was your experience finding saved notes in a note-taking app?",
+  "answer": "Writing a note was easy, but finding it again took too long.",
+  "timeline": [
+    {"question_text": "What did you use the app for?", "answer_text": "Saving a shopping list and a few ideas."}
+  ],
+  "plan": {
+    "goal": "Understand friction when retrieving saved notes.",
+    "topics": "Search, labels and navigation.",
+    "boundary": "Ask about the app experience only; respect requests to stop."
+  },
+  "scripted_followup_answer": "I would add search at the top and let users label notes. I had to open several folders to find my shopping list."
+}
